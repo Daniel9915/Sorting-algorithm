@@ -1,7 +1,7 @@
 import java.util.Random;
 public class Sortering{
 
-    public static int[] numbersArray = new int[1000];
+    public static int[] numbersArray = new int[50];
 
     public static void main(String[] args){
         numbersArray = randomArray(numbersArray);
